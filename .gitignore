@@ -16,3 +16,5 @@
 *.apk
 build/
 proguard/
+
+.idea/
